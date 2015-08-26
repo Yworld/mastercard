@@ -1,0 +1,2 @@
+<div align="right"><input type="button" class="btn btn-danger" value="x" onclick="login();"></div>
+Услуги в Европе предоставляются UTM Inc. (TM MasterCard) (Bankgasse 9, 1010 Wien, Утенийская Федерация)

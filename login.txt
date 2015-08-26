@@ -1,0 +1,5 @@
+<form method="POST" action="/cabinet.php">
+<input type="text" class="form-control" name="num" placeholder="Номер счёта">
+<input type="password" class="form-control" placeholder="CVC2" name="cvc"></br>
+<input type="button" class="btn btn-primary btn-lg btn-block" onclick="loadreg();" value="Регистрация">
+<input type="submit" class="btn btn-success btn-lg btn-block" value="Вход">
